@@ -1,0 +1,11 @@
+*.iml
+.settings/
+.svn/
+bin/
+gen/
+.idea
+gradle
+build
+out/
+.gradle
+
