@@ -20,10 +20,10 @@
 > We always use regex expression for extracting strings, but regex expression is hard to learn. This is a very easy util for  extracting strings from a huge text.     
     
 For example, this is a search result, we want to extract the search results.  
-<img src="./img/img1" width="800">
+<img src="./img/img1.png" width="800">
 
 The following is our extract result.
-<img src="./img/img2" width="800">
+<img src="./img/img2.png" width="800">
 
 
 [Currently support flutter widgets and properties](WIDGETS.md)
